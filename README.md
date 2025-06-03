@@ -1,5 +1,6 @@
 ## Olá, Sou a Jaqueline Felix👋
 
+
 👋 Olá, eu sou a Jaqueline Felix da Silva!
 Sou estudante de Análise e Desenvolvimento de Sistemas na UFBRA e atualmente atuo como Embaixadora Universitária na DIO (Digital Innovation One) — uma experiência que tem ampliado muito minha visão sobre o ecossistema de tecnologia e colaboração. 💻🚀
 
@@ -9,8 +10,6 @@ Este portfólio está sendo desenvolvido como parte dos desafios dos bootcamps d
 
 🔗 Desafio do Bootcamp Suzano - Python Developer
 
-📌 Você também pode me encontrar no LinkedIn, onde compartilho minha jornada, aprendizados e conexões no mundo tech.
+📌 Você também pode me encontrar no LinkedIn: https://www.linkedin.com/in/jaqueline-felix-7a05bb267/, onde compartilho minha jornada, aprendizados e conexões no mundo tech.
 
 Estou determinada a continuar estudando, me desenvolvendo e contribuindo com projetos e comunidades, com o objetivo de crescer como desenvolvedora e fazer parte ativamente desse mundo incrível da tecnologia!
-
-
