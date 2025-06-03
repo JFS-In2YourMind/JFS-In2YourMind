@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, Sou a Jaqueline Felix👋
 
 <!--
 **JFS-In2YourMind/JFS-In2YourMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
