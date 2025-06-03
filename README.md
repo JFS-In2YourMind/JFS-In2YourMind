@@ -1,16 +1,16 @@
 ## Olá, Sou a Jaqueline Felix👋
 
-<!--
-**JFS-In2YourMind/JFS-In2YourMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá, eu sou a Jaqueline Felix da Silva!
+Sou estudante de Análise e Desenvolvimento de Sistemas na UFBRA e atualmente atuo como Embaixadora Universitária na DIO (Digital Innovation One) — uma experiência que tem ampliado muito minha visão sobre o ecossistema de tecnologia e colaboração. 💻🚀
 
-Here are some ideas to get you started:
+Tenho 35 anos, sou mineira e entrei recentemente na área da tecnologia, iniciando essa nova jornada com muito entusiasmo. Mesmo começando agora, já posso dizer que estou amando cada descoberta e aprendizado nesse universo em constante evolução!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este portfólio está sendo desenvolvido como parte dos desafios dos bootcamps da DIO. Um deles foi:
+
+🔗 Desafio do Bootcamp Suzano - Python Developer
+
+📌 Você também pode me encontrar no LinkedIn, onde compartilho minha jornada, aprendizados e conexões no mundo tech.
+
+Estou determinada a continuar estudando, me desenvolvendo e contribuindo com projetos e comunidades, com o objetivo de crescer como desenvolvedora e fazer parte ativamente desse mundo incrível da tecnologia!
+
+
