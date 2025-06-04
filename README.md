@@ -17,4 +17,5 @@ Aqui você pode ver um desafio de Bootcamp da Dio concluido: https://github.com/
 
 Meus Artigos postados na DIO:  
 https://www.dio.me/articles/por-que-falar-sobre-ciberseguranca-no-brasil-ef18e64b2e61
+
 https://www.dio.me/articles/mulheres-negras-na-tecnologia-inovacao-com-identidade-d69f54ec88f4
