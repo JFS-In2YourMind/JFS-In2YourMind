@@ -11,7 +11,7 @@ Este portfólio está sendo desenvolvido como parte dos desafios do Campus Exper
 
 📌 Você também pode me encontrar no LinkedIn: https://www.linkedin.com/in/jaqueline-felix-7a05bb267/, onde compartilho minha jornada, aprendizados e conexões no mundo tech.
 
-Estou determinada a continuar estudando, me desenvolvendo e contribuindo com projetos e comunidades, com o objetivo de crescer como desenvolvedora e fazer parte ativamente desse mundo incrível da tecnologia!
+🔐 Atualmente, tenho focado meus estudos na área de Cybersegurança, uma área que me fascina e na qual quero aprofundar cada vez mais meus conhecimentos. 🧠💻🛡️
 
 Aqui você pode ver um desafio de Bootcamp da Dio concluido: https://github.com/JFS-In2YourMind/Desafio-V1 O bootcamp "Suzano - Python Developer" 
 
