@@ -13,7 +13,7 @@ Este portfólio está sendo desenvolvido como parte dos desafios do Campus Exper
 
 🔐 Atualmente, tenho focado meus estudos na área de Cybersegurança, uma área que me fascina e na qual quero aprofundar cada vez mais meus conhecimentos. 🧠💻🛡️
 
-Aqui você pode ver um desafio de Bootcamp da Dio concluido: https://github.com/JFS-In2YourMind/Desafio-V1 O bootcamp "Suzano - Python Developer" 
+Aqui você pode ver um desafio de Bootcamp da Dio concluido: https://github.com/JFS-In2YourMind/store-api  
 
 Meus Artigos postados na DIO:  
 https://www.dio.me/articles/por-que-falar-sobre-ciberseguranca-no-brasil-ef18e64b2e61
