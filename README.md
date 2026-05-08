@@ -7,11 +7,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UFBRA e atualmente so
 
 Tenho 35 anos, sou mineira e entrei recentemente na área da tecnologia, iniciando essa nova jornada com muito entusiasmo. Mesmo começando agora, já posso dizer que estou amando cada descoberta e aprendizado nesse universo em constante evolução!
 
-Este portfólio está sendo desenvolvido como parte dos desafios do Campus Expert Turma 12
+💻 Atualmente, também venho desenvolvendo meus conhecimentos em Lógica de Programação utilizando Portugol e Visualg, fortalecendo minha base em algoritmos, variáveis, estruturas condicionais e resolução de problemas.
+
+Tenho buscado aprender programação de forma prática, entendendo não apenas a sintaxe, mas principalmente a lógica por trás das soluções, o que tem contribuído bastante para minha evolução na área de tecnologia e cybersecurity. 🚀
 
 📌 Você também pode me encontrar no LinkedIn: https://www.linkedin.com/in/jaqueline-felix-7a05bb267/, onde compartilho minha jornada, aprendizados e conexões no mundo tech.
 
-🔐 Atualmente, tenho focado meus estudos na área de Cybersegurança, uma área que me fascina e na qual quero aprofundar cada vez mais meus conhecimentos. 🧠💻🛡️
+🔐 Tenho focado meus estudos na área de Cybersegurança também, uma área que me fascina e na qual quero aprofundar cada vez mais meus conhecimentos. 🧠💻🛡️
 
 Aqui você pode ver um desafio de Bootcamp da Dio concluido: https://github.com/JFS-In2YourMind/store-api  
 
