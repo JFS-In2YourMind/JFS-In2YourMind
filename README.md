@@ -7,7 +7,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UFBRA e atualmente so
 
 Tenho 36 anos, sou mineira e entrei recentemente na área da tecnologia, iniciando essa nova jornada com muito entusiasmo. Mesmo começando agora, já posso dizer que estou amando cada descoberta e aprendizado nesse universo em constante evolução!
 
-💻 Atualmente, também venho desenvolvendo meus conhecimentos em Lógica de Programação utilizando Portugol e Visualg, fortalecendo minha base em algoritmos, variáveis, estruturas condicionais e resolução de problemas.
+💻 Atualmente, também venho desenvolvendo meus conhecimentos em Lógica de Programação utilizando Java, Portugol e Visualg, fortalecendo minha base em algoritmos, variáveis, estruturas condicionais e resolução de problemas.
 
 Tenho buscado aprender programação de forma prática, entendendo não apenas a sintaxe, mas principalmente a lógica por trás das soluções, o que tem contribuído bastante para minha evolução na área de tecnologia e cybersecurity. 🚀
 
