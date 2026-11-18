@@ -1,25 +1,42 @@
-## Olá, Sou a Jaqueline Felix👋
+# Olá, eu sou a Jaqueline Felix da Silva! 👋
 
+Estudante de Análise e Desenvolvimento de Sistemas na **UFBRA** e no **SENAI**. 
 
-👋 Olá, eu sou a Jaqueline Felix da Silva!
+💻 Atualmente, atuo no desenvolvimento de sistemas desktop utilizando **Java (Swing / NetBeans)** e estruturação de banco de dados com **MySQL**, aplicando conhecimentos práticos em arquitetura de software, modelagem de dados e criação de soluções funcionais.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na UFBRA e atualmente sou Embaixadora Universitária na DIO (Digital Innovation One) https://web.dio.me/users/jaquelinefelix2545 — uma experiência que tem ampliado muito minha visão sobre o ecossistema de tecnologia e colaboração. 💻🚀
+Busco sempre evoluir tecnologicamente através de projetos reais e acadêmicos, unindo a programação ao meu forte interesse pela área de **Cybersecurity** 🚀🛡️.
 
-Tenho 36 anos, sou mineira e entrei recentemente na área da tecnologia, iniciando essa nova jornada com muito entusiasmo. Mesmo começando agora, já posso dizer que estou amando cada descoberta e aprendizado nesse universo em constante evolução!
+---
 
-💻 Atualmente, também venho desenvolvendo meus conhecimentos em Lógica de Programação utilizando Java, Portugol e Visualg, fortalecendo minha base em algoritmos, variáveis, estruturas condicionais e resolução de problemas.
+## 🔗 Onde me encontrar
 
-Tenho buscado aprender programação de forma prática, entendendo não apenas a sintaxe, mas principalmente a lógica por trás das soluções, o que tem contribuído bastante para minha evolução na área de tecnologia e cybersecurity. 🚀
+* 💼 **LinkedIn:** [Jaqueline Felix](https://www.linkedin.com/in/jaqueline-felix-7a05bb267/) — Compartilhando minha jornada e conexões no ecossistema tech.
+* 📂 **GitHub:** [@JFS-In2YourMind](https://github.com/JFS-In2YourMind)
 
-📌 Você também pode me encontrar no LinkedIn: https://www.linkedin.com/in/jaqueline-felix-7a05bb267/, onde compartilho minha jornada, aprendizados e conexões no mundo tech.
+---
 
-🔐 Tenho focado meus estudos na área de Cybersegurança também, uma área que me fascina e na qual quero aprofundar cada vez mais meus conhecimentos. 🧠💻🛡️
+## 🛠️ Tecnologias & Stack
 
-Aqui você pode ver um desafio de Bootcamp da Dio concluido: https://github.com/JFS-In2YourMind/store-api  
+* **Linguagens & Lógica:** Java, Orientação a Objetos
+* **Banco de Dados:** MySQL (Criação de schemas, tabelas e dumps)
+* **Ferramentas & IDEs:** NetBeans IDE, MySQL Workbench, Git / GitHub
+* **Áreas de Interesse:** Desenvolvimento de Sistemas & Cybersegurança 🧠💻🛡️
 
-Meus Artigos postados na DIO:  
-https://www.dio.me/articles/por-que-falar-sobre-ciberseguranca-no-brasil-ef18e64b2e61
+---
 
-https://www.dio.me/articles/mulheres-negras-na-tecnologia-inovacao-com-identidade-d69f54ec88f4
+## 📌 Destaques & Projetos
 
-https://www.dio.me/articles/evolucao-do-acesso-as-informacoes-como-nos-lidamos-com-as-informacoes-ao-passar-dos-anos-86b54db36a42
+* 📦 **Repositório em Destaque (Bootcamp DIO):** [store-api no GitHub](https://github.com/JFS-In2YourMind/store-api)
+
+---
+
+## 📚 Artigos Publicados na DIO
+
+* 🛡️ [Por que falar sobre cibersegurança no Brasil?](https://www.dio.me/articles/por-que-falar-sobre-ciberseguranca-no-brasil-ef18e64b2e61)
+* 💡 [Mulheres negras na tecnologia: inovação com identidade](https://www.dio.me/articles/mulheres-negras-na-tecnologia-inovacao-com-identidade-d69f54ec88f4)
+* 📈 [Evolução do acesso às informações: como nós lidamos com as informações ao passar dos anos](https://www.dio.me/articles/evolucao-do-acesso-as-informacoes-como-nos-lidamos-com-as-informacoes-ao-passar-dos-anos-86b54db36a42)
+
+---
+<div align="center">
+  <sub>🚀 Transformando código e lógica em soluções seguras para o futuro.</sub>
+</div>
